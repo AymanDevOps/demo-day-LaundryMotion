@@ -6,7 +6,7 @@
 
 Welcome to the Laundry Motion – a convenient and user-friendly platform for handling your laundry needs. This app provides a seamless service from placing laundry orders to managing user profiles, all within a secure and intuitive environment.
 
-(../img/homepic.png)
+(public/img/homepic.png)
 
 ## Technology Stack 🚀
 
